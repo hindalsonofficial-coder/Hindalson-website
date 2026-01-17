@@ -1,0 +1,6 @@
+# robots.txt for Hindalson Technology
+User-agent: *
+Allow: /
+
+# Sitemap location
+Sitemap: https://www.hindalson.com/sitemap.xml
